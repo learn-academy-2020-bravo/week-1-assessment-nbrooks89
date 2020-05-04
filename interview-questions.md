@@ -67,6 +67,6 @@ Research and define the following terms to the best of your ability.
 
 - React- React is a JavaScript library for building user interfaces. It is the view layer for web applications.
 - Yarn - A new package manager for JavaScript.
-- React State
+- React State - an object managed within a component
 - CRUD- create ,read, update, destroy
 - this -  this refers to an object, an object that is executing the current bit of code,
